@@ -44,12 +44,13 @@ function App() {
     };
   })
   return (
+    <section>
     <section className="timer-container">
       <section className="timer">
         <div>
           <span className="mdi mdi-calendar-clock timer-icon"></span>
-            <h2>Countdown timer</h2>
-            <p>Countdown to spain</p>
+            <h2>Spennandi niðurtalning</h2>
+            <p>Rosalega spennandi</p>
         </div>
         <div>
           <section>
@@ -72,7 +73,19 @@ function App() {
             <p><small>Seconds</small></p>
           </section>
         </div>
+        <div className="socialmediaicons">
+          <a href="https://www.linkedin.com/in/solvisig/" target="_blank" rel="noopener noreferrer">
+          <i className="mdi mdi-linkedin" />
+          </a>
+          <a href="https://github.com/solvim" target="_blank" rel="noopener noreferrer">
+          <i className="mdi mdi-github" />
+          </a>
+          <a href="https://www.instagram.com/solvimar/" target="_blank" rel="noopener noreferrer">
+          <i className="mdi mdi-instagram" />
+          </a>
+        </div>
       </section>
+    </section>
     </section>
   );
 }

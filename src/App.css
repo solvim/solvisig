@@ -40,6 +40,14 @@ body {
   font-size: 8em;
 }
 
+.socialmediaicons i{
+  font-size:2em;
+}
+
+a{
+  color: #fff;
+}
+
 h2{
   font-weight: 600;
   margin-bottom: 0.5em;
@@ -49,7 +57,7 @@ h2{
   color:#f8f8f8;
 }
 
-.timer div:last-child {
+.timer div:nth-child(2) {
   border: 1px solid #fff;
   border-radius: 3px;
   display: grid;
@@ -59,12 +67,12 @@ h2{
   text-align: center;
 }
 
-section p:first-child, .timer div:last-child span{
+section p:first-child, .timer div:nth-child(2) span{
   font-size: 3em;
 }
 
 @media screen and (max-width: 480px){
-  .timer div:last-child{
+  .timer div:nth-child(2){
     margin-left:2em;
     margin-right: 2em;
     padding: 3em 1em;
