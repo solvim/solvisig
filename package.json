@@ -1,8 +1,8 @@
 {
-  "name": "solvisig",
+  "name": "icedocs",
   "version": "0.1.0",
   "private": true,
-  "build_staging": "PUBLIC_URL=https://solvisig.is/ react-scripts build",
+  "build_staging": "PUBLIC_URL=https://icedocs.is/ react-scripts build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
