@@ -32,6 +32,22 @@ body {
   height: 100%;
 }
 
+.igFeed{
+  border: 1px solid #fff;
+  border-radius: 3px;
+  display: flex;
+  margin-top: 1em;
+  margin-left: 8em;
+  margin-right: 8em;
+  text-align: center;
+  display: block;
+}
+.igFeed p{
+  display: block;
+  padding-bottom: 1em;
+    font-size: 2em !important;
+}
+
 .timer div:first-child{
   text-align: center;
 }
