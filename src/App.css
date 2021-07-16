@@ -85,9 +85,7 @@ section p:first-child, .timer div:nth-child(2) span{
 
 @media screen and (max-width: 480px){
   .timer div:nth-child(2){
-    margin-left:2em;
-    margin-right: 2em;
-    padding: 3em 1em;
+
   }
 }
 
