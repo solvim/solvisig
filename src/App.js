@@ -29,7 +29,7 @@ function App() {
         </div>
         <div className="igFeed"> 
           <p>Instagram stemningin:</p>       
-          <InstagramFeed token="IGQVJXamtxcGdyVjlzemgwdGJHWi1XQ09kRDQ0T2RJOUIzTjVMRno4R0h2Y1ZABMTJsTHZAFRmlMTnk1NmEzSXhEclNEYnVNNk41b1dVTjVqa2JPb0NqMzZAWMld1WEF1TFFxQTFsQW1FM0l0RWsybF96RQZDZD"  counter="6"/>
+          <InstagramFeed token="IGQVJVelpNY01uaGJRWVhLTV9CTUhrbWh1OWJ1R2QtZAVBSVzZAaejVDc2J5M0hoRHRtYWlFN2UyUzdCd1ZAqRndyRTlxM3dCLXJuZAng0OUYyVEIwSkJtQmw5cGU2LWEtd3VPbTVFZAXlnam00N3BUbExBVQZDZD"  counter="6"/>
         </div>
         </div>
         
